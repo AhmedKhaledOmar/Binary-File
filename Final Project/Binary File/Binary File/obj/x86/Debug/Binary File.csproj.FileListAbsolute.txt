@@ -1,0 +1,89 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\Binary File\Binary File\bin\Debug\Binary File.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\Binary File\Binary File\bin\Debug\Binary File.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\Binary File\Binary File\obj\x86\Debug\Binary_File.Form1.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\Binary File\Binary File\obj\x86\Debug\Binary_File.Form2.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\Binary File\Binary File\obj\x86\Debug\Binary_File.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\Binary File\Binary File\obj\x86\Debug\Binary File.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2010\Projects\Binary File\Binary File\obj\x86\Debug\Binary File.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\Binary File\Binary File\obj\x86\Debug\Binary File.pdb
+C:\Users\lenovo\documents\visual studio 2010\Projects\Binary File\Binary File\obj\x86\Debug\Binary File.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\documents\visual studio 2010\Projects\Binary File\Binary File\obj\x86\Debug\Binary_File.Form3.resources
+E:\Modern Courses\File Organization 2017-2018\Programs\Binary File\Binary File\obj\x86\Debug\Binary File.exe
+E:\Modern Courses\File Organization 2017-2018\Programs\Binary File\Binary File\obj\x86\Debug\Binary File.pdb
+E:\Modern Courses\File Organization 2017-2018\Programs\Binary File\Binary File\bin\Debug\Binary File.exe
+E:\Modern Courses\File Organization 2017-2018\Programs\Binary File\Binary File\bin\Debug\Binary File.pdb
+E:\Modern Courses\File Organization 2017-2018\Programs\Binary File\Binary File\obj\x86\Debug\Binary File.csprojResolveAssemblyReference.cache
+E:\Modern Courses\File Organization 2017-2018\Programs\Binary File\Binary File\obj\x86\Debug\Binary_File.Form1.resources
+E:\Modern Courses\File Organization 2017-2018\Programs\Binary File\Binary File\obj\x86\Debug\Binary_File.Form2.resources
+E:\Modern Courses\File Organization 2017-2018\Programs\Binary File\Binary File\obj\x86\Debug\Binary_File.Form3.resources
+E:\Modern Courses\File Organization 2017-2018\Programs\Binary File\Binary File\obj\x86\Debug\Binary_File.Properties.Resources.resources
+E:\Modern Courses\File Organization 2017-2018\Programs\Binary File\Binary File\obj\x86\Debug\Binary File.csproj.GenerateResource.Cache
+E:\Modern Courses\File Organization 2018-2019\Programs\Binary File\Binary File\obj\x86\Debug\Binary_File.Properties.Resources.resources
+E:\Modern Courses\File Organization 2018-2019\Programs\Binary File\Binary File\obj\x86\Debug\Binary File.csproj.GenerateResource.Cache
+E:\Modern Courses\File Organization 2018-2019\Programs\Binary File\Binary File\bin\Debug\Binary File.exe
+E:\Modern Courses\File Organization 2018-2019\Programs\Binary File\Binary File\bin\Debug\Binary File.pdb
+E:\Modern Courses\File Organization 2018-2019\Programs\Binary File\Binary File\obj\x86\Debug\Binary File.exe
+E:\Modern Courses\File Organization 2018-2019\Programs\Binary File\Binary File\obj\x86\Debug\Binary File.pdb
+E:\Modern Courses\File Organization 2018-2019\Programs\Binary File\Binary File\obj\x86\Debug\Binary File.csprojResolveAssemblyReference.cache
+E:\Modern Courses\File Organization 2018-2019\Programs\Binary File\Binary File\obj\x86\Debug\Binary_File.InsertForm.resources
+E:\Modern Courses\File Organization 2018-2019\Programs\Binary File\Binary File\obj\x86\Debug\Binary_File.DisplayForm.resources
+E:\Modern Courses\File Organization 2018-2019\Programs\Binary File\Binary File\obj\x86\Debug\Binary_File.MainForm.resources
+G:\Binary File\Binary File\obj\x86\Debug\Binary File.exe
+G:\Binary File\Binary File\obj\x86\Debug\Binary File.pdb
+C:\Users\mis\Desktop\Binary File\Binary File\obj\x86\Debug\Binary File.exe
+C:\Users\mis\Desktop\Binary File\Binary File\obj\x86\Debug\Binary File.pdb
+C:\Users\mis\Desktop\Binary File\Binary File\bin\Debug\Binary File.exe
+C:\Users\mis\Desktop\Binary File\Binary File\bin\Debug\Binary File.pdb
+C:\Users\mis\Desktop\Binary File\Binary File\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mis\Desktop\Binary File\Binary File\obj\x86\Debug\Binary_File.MainForm.resources
+C:\Users\mis\Desktop\Binary File\Binary File\obj\x86\Debug\Binary_File.InsertForm.resources
+C:\Users\mis\Desktop\Binary File\Binary File\obj\x86\Debug\Binary_File.DisplayForm.resources
+C:\Users\mis\Desktop\Binary File\Binary File\obj\x86\Debug\Binary_File.Properties.Resources.resources
+C:\Users\mis\Desktop\Binary File\Binary File\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mis\Desktop\Binary File\Binary File\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\AG\Desktop\Binary File\Binary File\obj\x86\Debug\Binary_File.MainForm.resources
+C:\Users\AG\Desktop\Binary File\Binary File\obj\x86\Debug\Binary_File.InsertForm.resources
+C:\Users\AG\Desktop\Binary File\Binary File\obj\x86\Debug\Binary_File.DisplayForm.resources
+C:\Users\AG\Desktop\Binary File\Binary File\obj\x86\Debug\Binary_File.Searhform.resources
+C:\Users\AG\Desktop\Binary File\Binary File\obj\x86\Debug\Binary_File.Properties.Resources.resources
+C:\Users\AG\Desktop\Binary File\Binary File\obj\x86\Debug\Binary File.csproj.GenerateResource.Cache
+C:\Users\AG\Desktop\Binary File\Binary File\bin\Debug\Binary File.exe
+C:\Users\AG\Desktop\Binary File\Binary File\bin\Debug\Binary File.pdb
+C:\Users\AG\Desktop\Binary File\Binary File\obj\x86\Debug\Binary File.exe
+C:\Users\AG\Desktop\Binary File\Binary File\obj\x86\Debug\Binary File.pdb
+E:\Downloads\Binary_File\Binary File\Binary File\bin\Debug\Binary File.exe
+E:\Downloads\Binary_File\Binary File\Binary File\bin\Debug\Binary File.pdb
+E:\Downloads\Binary_File\Binary File\Binary File\obj\x86\Debug\Binary_File.MainForm.resources
+E:\Downloads\Binary_File\Binary File\Binary File\obj\x86\Debug\Binary_File.InsertForm.resources
+E:\Downloads\Binary_File\Binary File\Binary File\obj\x86\Debug\Binary_File.DisplayForm.resources
+E:\Downloads\Binary_File\Binary File\Binary File\obj\x86\Debug\Binary_File.ModifyForm.resources
+E:\Downloads\Binary_File\Binary File\Binary File\obj\x86\Debug\Binary_File.Searhform.resources
+E:\Downloads\Binary_File\Binary File\Binary File\obj\x86\Debug\Binary_File.Properties.Resources.resources
+E:\Downloads\Binary_File\Binary File\Binary File\obj\x86\Debug\Binary File.csproj.GenerateResource.Cache
+E:\Downloads\Binary_File\Binary File\Binary File\obj\x86\Debug\Binary File.exe
+E:\Downloads\Binary_File\Binary File\Binary File\obj\x86\Debug\Binary File.pdb
+E:\Downloads\Binary_File\Binary File\Binary File\obj\x86\Debug\Binary File.csprojResolveAssemblyReference.cache
+C:\Users\blur\Downloads\Final Project\Binary File\Binary File\obj\x86\Debug\Binary File.exe
+C:\Users\blur\Downloads\Final Project\Binary File\Binary File\obj\x86\Debug\Binary File.pdb
+C:\Users\blur\Downloads\Final Project\Binary File\Binary File\bin\Debug\Binary File.exe
+C:\Users\blur\Downloads\Final Project\Binary File\Binary File\bin\Debug\Binary File.pdb
+C:\Users\blur\Downloads\Final Project\Binary File\Binary File\obj\x86\Debug\Binary File.csprojResolveAssemblyReference.cache
+C:\Users\blur\Downloads\Final Project\Binary File\Binary File\obj\x86\Debug\Binary_File.MainForm.resources
+C:\Users\blur\Downloads\Final Project\Binary File\Binary File\obj\x86\Debug\Binary_File.InsertForm.resources
+C:\Users\blur\Downloads\Final Project\Binary File\Binary File\obj\x86\Debug\Binary_File.DisplayForm.resources
+C:\Users\blur\Downloads\Final Project\Binary File\Binary File\obj\x86\Debug\Binary_File.ModifyForm.resources
+C:\Users\blur\Downloads\Final Project\Binary File\Binary File\obj\x86\Debug\Binary_File.Searhform.resources
+C:\Users\blur\Downloads\Final Project\Binary File\Binary File\obj\x86\Debug\Binary_File.Properties.Resources.resources
+C:\Users\blur\Downloads\Final Project\Binary File\Binary File\obj\x86\Debug\Binary File.csproj.GenerateResource.Cache
+E:\Study\Klmawy\Projects\Desktop App\Project java\Final Project\Binary File\Binary File\obj\x86\Debug\Binary File.exe
+E:\Study\Klmawy\Projects\Desktop App\Project java\Final Project\Binary File\Binary File\obj\x86\Debug\Binary File.pdb
+E:\Study\Klmawy\Projects\Desktop App\Project java\Final Project\Binary File\Binary File\bin\Debug\Binary File.exe
+E:\Study\Klmawy\Projects\Desktop App\Project java\Final Project\Binary File\Binary File\bin\Debug\Binary File.pdb
+E:\Study\Klmawy\Projects\Desktop App\Project java\Final Project\Binary File\Binary File\obj\x86\Debug\Binary File.csprojResolveAssemblyReference.cache
+E:\Study\Klmawy\Projects\Desktop App\Project java\Final Project\Binary File\Binary File\obj\x86\Debug\Binary_File.MainForm.resources
+E:\Study\Klmawy\Projects\Desktop App\Project java\Final Project\Binary File\Binary File\obj\x86\Debug\Binary_File.InsertForm.resources
+E:\Study\Klmawy\Projects\Desktop App\Project java\Final Project\Binary File\Binary File\obj\x86\Debug\Binary_File.DisplayForm.resources
+E:\Study\Klmawy\Projects\Desktop App\Project java\Final Project\Binary File\Binary File\obj\x86\Debug\Binary_File.ModifyForm.resources
+E:\Study\Klmawy\Projects\Desktop App\Project java\Final Project\Binary File\Binary File\obj\x86\Debug\Binary_File.Searhform.resources
+E:\Study\Klmawy\Projects\Desktop App\Project java\Final Project\Binary File\Binary File\obj\x86\Debug\Binary_File.Properties.Resources.resources
+E:\Study\Klmawy\Projects\Desktop App\Project java\Final Project\Binary File\Binary File\obj\x86\Debug\Binary File.csproj.GenerateResource.Cache
